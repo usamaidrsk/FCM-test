@@ -1,0 +1,22 @@
+{
+  "name": "fcm-test",
+  "version": "1.0.0",
+  "description": "adding firebase cloud messaging in js project",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usamaidrsk/FCM-test.git"
+  },
+  "author": "usama idriss kakumba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usamaidrsk/FCM-test/issues"
+  },
+  "homepage": "https://github.com/usamaidrsk/FCM-test#readme",
+  "dependencies": {
+    "firebase": "^7.23.0"
+  }
+}
